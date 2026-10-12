@@ -1,6 +1,6 @@
 {
   "360Poi.NumberofFloors": "Anzahl Stockwerke",
-  "360Poi.NumberofRooms": "Anzahl Räume",
+  "360Poi.NumberofRooms": "Anzahl Räume test again",
   "3dModel.3DModels": "3D Models",
   "3dModel.Addanother3Dmodel": "ein weiteres 3D-Modell hinzufügen",
   "3dModel.Area": "Fläche",
@@ -857,5 +857,9 @@
   "Transactions": "Transaktionen",
   "Upload.DropZone.UploadSuccess": "Alle Files wurden erfolgreich geladen!",
   "Users": "Benutzer",
+  "nav_projects": "asfasfas",
+  "projects_new": "asfasfasdf",
+  "projects_subtitle": "Sehr gut",
+  "projects_title": "asdfasdfasd",
   "threeDForm.fileType": "Dateityp"
 }
